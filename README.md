@@ -22,7 +22,6 @@
 <br>
 
 ## Sobre mim
-
 - Estudante de Sistemas para Internet na FATEC.
 - apaixonada por tecnologia e programação.
 - Sempre aprendendo e explorando novas tecnologias.
@@ -37,6 +36,8 @@
 <br>
 
 ## Linguagens
+<br>
+<br>
 
 
 <p align="center">
@@ -53,9 +54,15 @@
 ## Entre em Contato
 
 Você pode me encontrar online nos seguintes lugares:
-
-- LinkedIn: [Julia Mazoti](www.linkedin.com/in/juliamazoti)
-- Instagram: [@juliamazoti](https://www.instagram.com/julia.draww/)
+<br>
+<br>
+<div> 
+  <a href="https://www.instagram.com/julia.draww/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/juliamazoti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+<br>
+<br>
 
 Vamos nos conectar e colaborar em alguns projetos interessantes! 😊
 
