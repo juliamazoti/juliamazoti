@@ -59,11 +59,5 @@ Você pode me encontrar online nos seguintes lugares:
 
 Vamos nos conectar e colaborar em alguns projetos interessantes! 😊
 
-<div align="center">
-  <br>
-  <p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{juliamazoti}/count.svg" style="color_text:ff12d5;" /></p> 
-  <br>
-</div>
 
 
