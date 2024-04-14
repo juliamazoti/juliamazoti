@@ -23,7 +23,7 @@
 
 ## Sobre mim
 - Estudante de Sistemas para Internet na FATEC.
-- apaixonada por tecnologia e programação.
+- Apaixonada por tecnologia e programação.
 - Sempre aprendendo e explorando novas tecnologias.
 
 <br>
