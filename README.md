@@ -7,15 +7,15 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliamazoti&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ce42c&icon_color=2ce42c&text_color=ffffff" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamazoti&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ce42c&text_color=ffffff" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juliamazoti&show_icons=true&theme=radical&hide_border=true&bg_color=212830&title_color=2ce42c&icon_color=2ce42c&text_color=ffffff" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamazoti&layout=compact&theme=radical&hide_border=true&bg_color=212830&title_color=2ce42c&text_color=ffffff" alt="Linguagens Mais Utilizadas" />
 </p>
 
 <br>
 <br>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliamazoti&bg_color=000000&color=2ce42c&line=2ce42c&point=2ce42c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliamazoti&bg_color=212830&color=2ce42c&line=2ce42c&point=2ce42c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br>
