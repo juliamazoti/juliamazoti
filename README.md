@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/juliamazoti/juliamazoti/assets/124906028/abba541c-3781-4bea-b98e-ffa9715192ba"/>
+<img width=100% bottom=50px src="https://github.com/juliamazoti/juliamazoti/issues/4#issue-2867453583"/>
 <br>
 <br>
 
