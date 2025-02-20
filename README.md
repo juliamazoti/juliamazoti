@@ -2,20 +2,20 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff12d5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Julia.;Tenho+22+anos.;Moro+no+interior+de+SP.;Estudo+Sistemas+para+Internet+na+Fatec+Jahu.;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ce42c&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Julia.;Tenho+22+anos.;Moro+no+interior+de+SP.;Estudo+Sistemas+para+Internet+na+Fatec+Jahu.;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 <br>
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliamazoti&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff12d5&icon_color=ff12d5&text_color=ffffff" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamazoti&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff12d5&text_color=ffffff" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juliamazoti&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ce42c&icon_color=2ce42c&text_color=ffffff" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamazoti&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ce42c&text_color=ffffff" alt="Linguagens Mais Utilizadas" />
 </p>
 
 <br>
 <br>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliamazoti&bg_color=000000&color=ff12d5&line=ff12d5&point=ff12d5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliamazoti&bg_color=000000&color=2ce42c&line=2ce42c&point=2ce42c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br>
