@@ -1,4 +1,8 @@
-<img width=100% bottom=50px src="https://github.com/juliamazoti/juliamazoti/issues/4#issue-2867453583"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b79997de-8010-4d1f-a398-e7c2d785c476" alt="Texto Alternativo">
+</div>
+
+
 <br>
 <br>
 
