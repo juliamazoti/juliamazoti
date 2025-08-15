@@ -5,19 +5,19 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff1ffd&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Julia.;Tenho+22+anos.;Moro+no+interior+de+SP.;Estudo+Sistemas+para+Internet+na+Fatec+Jahu.;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cd37a1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Julia.;Tenho+22+anos.;Moro+no+interior+de+SP.;Estudo+Sistemas+para+Internet+na+Fatec+Jahu.;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 <br>
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliamazoti&show_icons=true&theme=radical&hide_border=true&bg_color=212830&title_color=ff1ffd&icon_color=ff1ffd&text_color=ffffff" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamazoti&layout=compact&theme=radical&hide_border=true&bg_color=212830&title_color=ff1ffd&text_color=ffffff" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juliamazoti&show_icons=true&theme=radical&hide_border=true&bg_color=212830&title_color=cd37a1&icon_color=cd37a1&text_color=ffffff" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamazoti&layout=compact&theme=radical&hide_border=true&bg_color=212830&title_color=cd37a1&text_color=ffffff" alt="Linguagens Mais Utilizadas" />
 </p>
 
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliamazoti&bg_color=212830&color=ff1ffd&line=ff1ffd&point=ff1ffd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliamazoti&bg_color=212830&color=cd37a1&line=cd37a1&point=cd37a1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <br>
