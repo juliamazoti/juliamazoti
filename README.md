@@ -9,10 +9,7 @@
 <br>
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliamazoti&show_icons=true&theme=radical&hide_border=true&bg_color=212830&title_color=cd37a1&icon_color=cd37a1&text_color=ffffff" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamazoti&layout=compact&theme=radical&hide_border=true&bg_color=212830&title_color=cd37a1&text_color=ffffff" alt="Linguagens Mais Utilizadas" />
-</p>
+
 
 <br>
 <br>
